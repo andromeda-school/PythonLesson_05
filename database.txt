@@ -1,0 +1,7 @@
+login : almassinev, password : 1234
+login : qwertyuio12, password : 1212
+login : superhlebyshek, password : 5555
+login : hackerman1, password : 0101
+login : alalal, password : 9876
+login : robot7, password : 7777
+login : lenka1212, password : 4545
